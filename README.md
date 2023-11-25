@@ -16,13 +16,13 @@ This repository is dedicated to providing implementations of essential data stru
 
 ## List of Data Structures
 
-- **Search and Sorting Algorithms**: [Link]
-- **Linked List**: [Link to Linked List implementation]
-- **Stack**: [Link to Stack implementation]
-- **Queue**: [Link to Queue implementation]
-- **Binary Tree**: [Link to Binary Tree implementation]
-- **Hash Table**: [Link to Hash Table implementation]
-- **Graph**: [Link to Graph implementation]
+- [**Search Algorithms**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/1.%20Search)
+- [**Sorting Algorithms**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/2.%20Sorting)
+- [**Linked List**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/5.%20LinkedLists)
+- [**Stack**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/3.%20Stack)
+- [**Queue**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/4.%20Queue)
+- [**Binary Tree**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/6.%20Trees)
+- [**Graph**](https://github.com/Sid-5137/Datastructures/tree/main/Coding_DSA/7.%20Graphs)
   
 
 Each data structure is organized into its respective directory, containing implementation details and examples.
@@ -33,17 +33,17 @@ To use any of the data structures in your project, follow these general steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/Sid-5137/Datastructures.git
    ```
 
 2. Navigate to the desired data structure directory:
    ```bash
-   cd [data structure directory]
+   cd [Datastructures]
    ```
 
 3. Include the necessary files in your project.
 
-4. Use the data structure by following the provided examples and documentation.
+4. Use the data structure accordingly.
 
 ## Contributing
 
