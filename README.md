@@ -60,6 +60,3 @@ Please make sure to follow the project's coding style and guidelines.
 ## License
 
 This project is licensed under the [MIT] - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Replace the placeholders like `[programming language(s) of your choice]`, `[Link to Linked List implementation]`, and others with the relevant information for your project. Also, specify the license you choose for your project (e.g., MIT, Apache 2.0).
